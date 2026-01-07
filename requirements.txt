@@ -1,0 +1,15 @@
+# Core AI & Orchestration
+langgraph
+langchain-google-genai
+qdrant-client
+
+# Data Engineering
+unstructured[pdf]
+pandas
+python-dotenv
+
+# Evaluation & API
+ragas
+fastapi
+uvicorn
+streamlit
