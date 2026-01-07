@@ -4,7 +4,8 @@ langchain-google-genai
 qdrant-client
 
 # Data Engineering
-unstructured[pdf]
+unstructured[all-docs]
+requests
 pandas
 python-dotenv
 
