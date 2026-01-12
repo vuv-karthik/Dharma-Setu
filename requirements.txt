@@ -8,6 +8,7 @@ unstructured[all-docs]
 requests
 pandas
 python-dotenv
+networkx
 
 # Evaluation & API
 ragas
